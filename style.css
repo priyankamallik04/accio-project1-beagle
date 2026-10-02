@@ -1,0 +1,37 @@
+ body{
+
+        	font-family: Arial, sans-serif;
+        }
+
+    	.main{
+              
+              width: 80%;
+              text-align: left;
+              margin-top: 20px;
+              margin-left: 280px;
+              margin-rignt: 280px;
+
+    	}
+
+    	.card{
+    		border: 1px solid black;
+    		padding: 24px;
+        width: 75%;
+              
+              
+    	}
+
+    	div a{
+    		text-decoration: none;
+    		font-size: 18px;
+    	}
+
+    	img{
+    		width: 400px;
+    		height: 280px;
+    	}
+
+    	 h2{
+    	 	text-decoration: underline;
+
+    	 }
