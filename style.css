@@ -1,36 +1,26 @@
- body{
+body{
 
-        	font-family: Arial, sans-serif;
+      	font-family: Arial, sans-serif;
+     }
+
+	.main{
+           
+          text-align: left;
+          margin-top: 20px;
+          margin-left: 5px;
         }
 
-    	.main{
-              
-              width: 100%;
-              text-align: left;
-              margin-top: 20px;
-             
+	.card{
+      		border: 1px solid black;
+      		padding: 24px;          
+	     }
 
-    	}
+  	img{
+        		width: 400px;
+        		height: 280px;
+  	   }
 
-    	.card{
-    		border: 1px solid black;
-    		padding: 24px;
-      width: 100%;
-              
-              
-    	}
+	  h2{
+        	 	text-decoration: underline;
 
-    	div a{
-    		text-decoration: none;
-    		font-size: 18px;
-    	}
-
-    	img{
-    		width: 400px;
-    		height: 280px;
-    	}
-
-    	 h2{
-    	 	text-decoration: underline;
-
-    	 }
+	    }
