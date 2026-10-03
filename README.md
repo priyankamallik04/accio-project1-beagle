@@ -1,6 +1,4 @@
 Project Overview
-Completed
-Project Overview (100 Marks)
 Tasks
 HTML Setup:
 Begin your HTML project.
